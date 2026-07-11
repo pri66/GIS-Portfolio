@@ -38,7 +38,7 @@ This portfolio showcases practical applications of GIS, spatial analysis, remote
 
 | Project | Description |
 |---------|-------------|
-| Forest Fire Risk Analysis – Jabalpur | Forest fire susceptibility mapping |
+| Forest Fire Risk Analysis – Jabalpur | Forest fire susceptibility mapping |https://github.com/pri66/Forest-Fire-Susceptibility-Jabalpur
 | Healthcare Accessibility Analysis – Jabalpur | Multi-Criteria Decision Analysis |
 | Watershed Delineation – Narmada River | Hydrological analysis using DEM |
 | Forest Canopy Density – Jabalpur | Remote sensing project |
