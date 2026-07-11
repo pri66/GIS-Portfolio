@@ -42,6 +42,7 @@ This portfolio showcases practical applications of GIS, spatial analysis, remote
 | Healthcare Accessibility Analysis – Jabalpur | Multi-Criteria Decision Analysis |
 | Watershed Delineation – Narmada River | Hydrological analysis using DEM |
 | IPC Crime Analysis (2022) | Thematic GIS mapping |
+| Flood Susceptibility Analysis | Hydrological analysis using DEM |
 
 ---
 
@@ -61,6 +62,17 @@ A GIS-based forest fire susceptibility analysis.
 
 **Repository:**
 https://github.com/pri66/Forest-Fire-Susceptibility-Jabalpur
+
+### 🌊 Flood Susceptibility Mapping
+
+GIS-based flood susceptibility assessment for **Jabalpur District** using Multi-Criteria Decision Analysis (MCDA) and Weighted Overlay techniques.
+
+**Tools:** QGIS
+
+**Skills:** Raster Analysis, Hydrological Analysis, Weighted Overlay, MCDA, Cartography
+
+**Repository:**
+https://github.com/pri66/Flood-Susceptibility-Analysis
 
 ###  Healthcare Accessibility Analysis – Jabalpur
 
@@ -94,3 +106,4 @@ Thematic mapping and visualization of state-wise IPC crime statistics using GIS.
 
 **Repository:**
 https://github.com/pri66/india-ipc-crime-analysis-qgis
+
