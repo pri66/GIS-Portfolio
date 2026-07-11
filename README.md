@@ -38,10 +38,9 @@ This portfolio showcases practical applications of GIS, spatial analysis, remote
 
 | Project | Description |
 |---------|-------------|
-| Forest Fire Risk Analysis – Jabalpur | Forest fire susceptibility mapping |https://github.com/pri66/Forest-Fire-Susceptibility-Jabalpur
+| Forest Fire Risk Analysis – Jabalpur | Forest fire susceptibility mapping |
 | Healthcare Accessibility Analysis – Jabalpur | Multi-Criteria Decision Analysis |
 | Watershed Delineation – Narmada River | Hydrological analysis using DEM |
-| Forest Canopy Density – Jabalpur | Remote sensing project |
 | IPC Crime Analysis (2022) | Thematic GIS mapping |
 
 ---
@@ -50,4 +49,48 @@ This portfolio showcases practical applications of GIS, spatial analysis, remote
 
 GitHub: https://github.com/pri66
 
-Email: priyankac7910@gmail.com
+## My Projects
+
+###  Forest Fire Risk Analysis – Jabalpur
+
+A GIS-based forest fire susceptibility analysis.
+
+**Tools:** QGIS
+
+**Skills:** Raster Analysis, Weighted Overlay, Cartography
+
+**Repository:**
+https://github.com/pri66/Forest-Fire-Susceptibility-Jabalpur
+
+###  Healthcare Accessibility Analysis – Jabalpur
+
+Multi-criteria spatial analysis to identify suitable locations based on environmental and geographic parameters.
+
+**Tools:** QGIS
+
+**Skills:** Spatial Analysis, Overlay Analysis, Decision Support.
+
+**Repository:**
+https://github.com/pri66/Healthcare-Accessibility-Analysis
+
+###  Watershed Delineation – Narmada River
+
+Hydrological analysis of the Narmada River basin using Digital Elevation Model (DEM) data to generate watershed boundaries and drainage networks.
+
+**Tools:** QGIS
+
+**Skills:** Hydrological Analysis, DEM Processing, Terrain Analysis
+
+**Repository:**
+https://github.com/pri66/Narmada-Watershed-Delineation
+
+### 📊 Indian IPC Crime Analysis (2022)
+
+Thematic mapping and visualization of state-wise IPC crime statistics using GIS.
+
+**Tools:** QGIS
+
+**Skills:** Thematic Mapping, Data Visualization, Spatial Analysis
+
+**Repository:**
+https://github.com/pri66/india-ipc-crime-analysis-qgis
