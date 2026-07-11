@@ -63,7 +63,7 @@ A GIS-based forest fire susceptibility analysis.
 **Repository:**
 https://github.com/pri66/Forest-Fire-Susceptibility-Jabalpur
 
-### 🌊 Flood Susceptibility Mapping
+###  Flood Susceptibility Mapping
 
 GIS-based flood susceptibility assessment for **Jabalpur District** using Multi-Criteria Decision Analysis (MCDA) and Weighted Overlay techniques.
 
@@ -96,7 +96,7 @@ Hydrological analysis of the Narmada River basin using Digital Elevation Model (
 **Repository:**
 https://github.com/pri66/Narmada-Watershed-Delineation
 
-### 📊 Indian IPC Crime Analysis (2022)
+###  Indian IPC Crime Analysis (2022)
 
 Thematic mapping and visualization of state-wise IPC crime statistics using GIS.
 
